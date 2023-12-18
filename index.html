@@ -34,24 +34,55 @@
 
 </head>
 <body>
+    <!-- Messenger Plugin Obrolan Code -->
+    <div id="fb-root"></div>
+
+    <!-- Your Plugin Obrolan code -->
+    <div id="fb-customer-chat" class="fb-customerchat">
+    </div>
+
+    <script>
+      var chatbox = document.getElementById('fb-customer-chat');
+      chatbox.setAttribute("page_id", "343577459561566");
+      chatbox.setAttribute("attribution", "biz_inbox");
+    </script>
+
+    <!-- Your SDK code -->
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          xfbml            : true,
+          version          : 'v18.0'
+        });
+      };
+
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script>
+    
     <header>Updated <em>December 18th</em></header>
     <main>
         <h1>Abdurrahman Hanif is a <mark>Designer</mark>, with strengths in <mark>Graphics</mark> and <mark>Typography</mark>. Experiences in Publishing, Healthcare, F&B, and Cultural domains.</h1>
-        <p>5+ years of experience,  <a href="https://manuelmoreale.com/people-and-blogs">Learn more about P&B</a></p>
+        <p>5+ years experience, in the field of Graphic Design he puts his work under the name <a href="https://awalstudio.com">Awal Studio</a>. He also founded the <a href="https://monocotype.com">Monoco Type Foundry</a> as a playground for his experiments in the field of typography. Apart from his work, Hanif also has an interest in Sino-Muslims and likes writing  <a href="https://abdrhnf.medium.com/">articles</a>.
 
+        <!-- Matiin Form
         <form action="https://buttondown.email/api/emails/embed-subscribe/peopleandblogs" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.email/peopleandblogs', 'popupwindow')" class="embeddable-buttondown-form">
             <label for="bd-email">Your Email Address</label>
-            <input type="email" name="email" id="bd-email" placeholder="email@peopleandblogs.com">
-            <input type="submit" value="Subscribe">
+            <input type="email" name="email" id="bd-email" placeholder="Contact Us">
+            <input type="submit" value="Say Hello">
         </form>
+        Matiin Form end -->
 
         <dl>
             <dt>See my other projects:</dt>
             <dd><a href="https://awalstudio.com/?ref=abdrhnf" target="_blank">Awal Studio</a></dd>
             <dd><a href="https://monocotype.com/?ref=abdrhnf" target="_blank">Monoco Type Foundry</a></dd>
         </dl>
-
     </main>
-    <footer>P&B is run by <a href="https://manuelmoreale.com/">Abdurrahman Hanif</a></footer>
+    <footer><a href="https://instagram.com/abdrhnf" target="_blank">Instagram</a> | <a href="https://www.linkedin.com/in/abdrhnf/" target="_blank">LinkedIn</a> </footer>
 </body>
-</html>
