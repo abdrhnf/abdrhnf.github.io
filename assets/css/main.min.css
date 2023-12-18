@@ -15,7 +15,5 @@ input[type=submit]{border:1px solid var(--c-detail);display:block;width:100%;fon
 	button{font-size:15px;line-height:26px}
 	button{border-radius:.35rem;background:#f1f1f1}
 	button{border-radius:.35rem;cursor:pointer;transition:color 200ms,background 200ms,border-color 200ms;padding:.27rem .25rem .23rem;font-weight:360}
-	button:hover{background:var(--c-link);color:var(--c-bg);border-color:var(--c-link)}dl{font-size:11px;line-height:22px}@media (min-width:450px)
-        span {
-            text-decoration: underline;
-        }
+	button:hover{background:var(--c-link);color:var(--c-bg);border-color:var(--c-link)}dl{font-size:11px;line-height:22px}@media (min-width:450px);
+    span {text-decoration: underline;}
