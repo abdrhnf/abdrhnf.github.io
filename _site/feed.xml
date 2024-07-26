@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abdurrahman Hanif</title>
+    <description>Hi, I&apos;m Hanif. Here, I mainly write about Swift, Go, and random computer musings.  
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 26 Jul 2024 14:30:54 +0700</pubDate>
+    <lastBuildDate>Fri, 26 Jul 2024 14:30:54 +0700</lastBuildDate>
+    <generator>Jekyll v3.9.5</generator>
+    
+      <item>
+        <title>Hello Guys</title>
+        <description>&lt;h1 id=&quot;lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-nunc-iaculis-dui-quam-donec-eget-turpis-sit-amet-lacus-ullamcorper-feugiat-in-quis-quam-duis-sit-amet-bibendum-lectus-nunc-et-porta-nunc-donec-sem-sapien-vehicula-sit-amet-enim-et-hendrerit-aliquet-est-donec-porttitor-ligula-quis-sapien-commodo-gravida-integer-sed-sem-sit-amet-nisl-hendrerit-molestie&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc iaculis dui quam. Donec eget turpis sit amet lacus ullamcorper feugiat in quis quam. Duis sit amet bibendum lectus. Nunc et porta nunc. Donec sem sapien, vehicula sit amet enim et, hendrerit aliquet est. Donec porttitor ligula quis sapien commodo gravida. Integer sed sem sit amet nisl hendrerit molestie.&lt;/h1&gt;
+
+&lt;p&gt;Aenean dignissim porta nisl. Fusce aliquet mauris id eleifend egestas. Proin ipsum ligula, gravida id urna quis, faucibus fringilla velit. Quisque cursus rutrum dolor ac interdum. Suspendisse et commodo ante. Vestibulum hendrerit eros sed iaculis consequat. Sed imperdiet, nisi et pulvinar sodales, eros diam suscipit magna, vel porta est dolor at magna. Cras erat est, congue et egestas ut, tempus tincidunt nunc. Aliquam bibendum tincidunt porta.&lt;/p&gt;
+
+&lt;p&gt;Aliquam sodales facilisis ullamcorper. Sed et quam ultrices tortor pellentesque lacinia nec in urna. Mauris molestie volutpat sollicitudin. Ut maximus sem nisi, sit amet euismod enim convallis viverra. Suspendisse potenti. Nunc pharetra sapien non auctor euismod. Sed vehicula interdum lacus et consequat. Nullam ut maximus erat. Cras tincidunt ipsum in ante fringilla convallis. Nulla viverra nulla nec augue ultrices, sit amet sodales arcu varius. Duis dignissim ullamcorper ante. Integer ac erat risus. Aliquam erat volutpat. Aliquam vulputate vulputate congue.&lt;/p&gt;
+
+&lt;p&gt;Nullam luctus libero eu malesuada aliquet. Vestibulum non eros sit amet eros dictum dignissim vitae in orci. Ut orci massa, efficitur in magna vel, interdum feugiat mauris. Etiam venenatis lorem vehicula ipsum dapibus, et consequat libero feugiat. Phasellus hendrerit, lorem id vulputate rutrum, velit metus sagittis massa, quis pulvinar ipsum enim id elit. Suspendisse id sollicitudin est. Aliquam condimentum efficitur nunc congue commodo. Donec sed mattis odio. Cras elementum pellentesque sapien eget bibendum. Praesent consequat, odio quis pharetra elementum, nulla orci rhoncus lacus, quis vulputate ipsum justo ac felis. In sed commodo neque. Sed scelerisque purus a tortor rhoncus, sit amet iaculis sem vestibulum. Etiam maximus ac nibh ut lobortis. In hac habitasse platea dictumst. Proin lectus nisi, sagittis at ex vel, imperdiet venenatis dolor. In quam sem, rhoncus at faucibus fermentum, molestie id mauris.&lt;/p&gt;
+
+&lt;p&gt;Nam at diam ac purus maximus ultricies nec sit amet lorem. Quisque semper congue nunc quis tempor. Phasellus finibus nulla at efficitur vehicula. Donec vulputate, urna quis suscipit consequat, libero lectus iaculis magna, at tincidunt orci risus posuere lectus. Aenean in nibh eget sem vestibulum varius eget non augue. Proin dui magna, gravida ac lacinia nec, commodo et nisi. In ullamcorper felis id urna iaculis, ac scelerisque dolor ultrices. Duis ante magna, pharetra vitae lacus eget, imperdiet sagittis turpis. Donec ullamcorper pellentesque tristique. Nulla non velit vitae ex pretium placerat elementum eget diam. Cras hendrerit vitae diam non venenatis. Cras eu metus nisl. Nulla nec vestibulum tortor, ut sollicitudin dui. Mauris lacinia a leo id efficitur.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 22 Jul 2024 08:49:23 +0700</pubDate>
+        <link>http://localhost:4000/2024/07/Hello</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/07/Hello</guid>
+        
+        <category>hello</category>
+        
+        <category>yaudah</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
