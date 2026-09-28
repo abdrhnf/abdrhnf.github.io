@@ -34,26 +34,6 @@ input[type=submit]{border:1px solid var(--c-detail);display:block;width:100%;fon
     border-radius: 50%;
 }
 
-.availability-banner {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    margin-top: 12px;
-    padding: 6px 16px;
-    border: 1px solid rgba(0, 0, 0, 0.1);
-    border-radius: 100px;
-    background-color: white;
-    font-size: 13px;
-}
-
-.status-dot {
-    width: 10px;
-    height: 10px;
-    background-color: #10B981;
-    border-radius: 50%;
-    display: inline-block;
-}
-
 @media (max-width: 450px) {
     body {
         min-height: 100vh;
